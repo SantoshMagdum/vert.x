@@ -1,4 +1,8 @@
 language: java
+os:
+  - linux
+  - linux-ppc64le
+
 branches:
   only:
   - master
